@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p style="text-align:center">
 <a href="https://app.daily.dev/mat2718i"><img src="./devcard.png" width="356" alt="Matei George Dev Card"/></a>
+</p>
