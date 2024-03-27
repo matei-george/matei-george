@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/mat2718i"><img src="https://api.daily.dev/devcards/v2/9tNUOAZrQcaLHQTyFH6ua.png?type=default&r=rtg" width="356" alt="Matei George Murarașu's Dev Card"/></a>
+
 <!--
 **matei-george/matei-george** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/mat2718i"><img src="./devcard.png" width="356" alt="Matei George Dev Card"/></a>
